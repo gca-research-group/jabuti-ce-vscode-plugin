@@ -19,7 +19,7 @@
 ## Table of contents
 - [Project papers](#project-papers)
 - [Project repositories](#project-repositories)
-- [Features](#transformation-engine-model)
+- [Features](#features)
 
 ## Project papers
 - [Advances in a DSL to Specify Smart Contracts for Application Integration Processes](https://sol.sbc.org.br/index.php/cibse/article/view/20962)
