@@ -21,6 +21,12 @@
 -   [Project papers](#project-papers)
 -   [Project repositories](#project-repositories)
 -   [Features](#features)
+    -   [Code highlighting](#code-highlighting)
+    -   [Autocompletion](#autocompletion)
+    -   [Code navigation](#code-navigation)
+    -   [Syntax and semantic validation](#syntax-and-semantic-validation)
+    -   [Documentation on hover](#documentation-on-hover)
+    -   [Code transformation](#code-transformation)
 
 ## Project papers
 
